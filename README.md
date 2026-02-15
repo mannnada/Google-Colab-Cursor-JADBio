@@ -1,4 +1,4 @@
-# Google-Colab---Cursor-JADBio-
+# Google-Colab-Cursor-JADBio
 
 Assingment-1: Python </br>
 Google Colab Link: https://colab.research.google.com/drive/1QiTl7-BdmP6UQvPY7y3NpweG98mqushw?usp=sharing</br>
